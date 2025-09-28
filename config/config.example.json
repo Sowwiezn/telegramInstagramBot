@@ -1,0 +1,21 @@
+{
+  "telegram": {
+    "botToken": "YOUR_TELEGRAM_BOT_TOKEN",
+    "adminUserId": "YOUR_ADMIN_USER_ID"
+  },
+  "instagram": {
+    "username": "YOUR_INSTAGRAM_USERNAME",
+    "password": "YOUR_INSTAGRAM_PASSWORD"
+  },
+  "monitoring": {
+    "intervalSeconds": 60,
+    "enablePosts": true,
+    "enableStories": true
+  },
+  "accounts": {
+    "example_username": {
+      "channelId": "@your_channel",
+      "enabled": true
+    }
+  }
+}
