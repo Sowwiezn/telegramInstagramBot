@@ -1,21 +1,15 @@
 {
   "telegram": {
-    "botToken": "8016189535:AAF4tDjg-nAmDEKZFQ-LB6wws_uBGlHmXEs",
-    "adminUserId": "873573504"
+    "botToken": "",
+    "adminUserId": ""
   },
   "instagram": {
-    "username": "anastasiasowwzna@gmail.com",
-    "password": "77823679076"
+    "username": "",
+    "password": ""
   },
   "monitoring": {
     "intervalSeconds": 60,
     "enablePosts": true,
     "enableStories": true
-  },
-  "accounts": {
-    "saito10765": {
-      "channelId": "@instogram_posts",
-      "enabled": true
-    }
   }
 }
